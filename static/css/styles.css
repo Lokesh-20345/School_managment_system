@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 20px;
+}
+
+.header{
+    background-color: brown;
+    color: black;
+    padding: 50px;
+}
+
+
+.container{
+    color:black;
+}
+
+form {
+    border: 2px solid;
+}
